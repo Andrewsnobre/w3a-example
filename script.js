@@ -9,7 +9,7 @@ let walletServicesPlugin = null;
   const clientId = "BO-2ivVfQOUUc3eEU6W1Xlc-ydHcnchjDR0zEiEYeDPglKIruR_9gYEW4UjMgXUN9Zdl_SsnJrZZo88VSoHXSNo"; // get your clientId from https://dashboard.web3auth.io
   // IMP END - Dashboard Registration
 
-  // IMP START - Chain Config
+  // IMP START - Chain Con  fig
   const chainConfig = {
     chainNamespace: "eip155",
     chainId: "0xaa36a7",
